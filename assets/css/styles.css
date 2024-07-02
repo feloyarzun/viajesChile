@@ -1,0 +1,38 @@
+* {
+    scroll-behavior: smooth;
+    font-family: 'Wittgenstein', sans-serif;
+    font-weight: 500;
+}
+
+body {
+    background-color: rgba(8, 8, 8, 0.979);
+}
+
+nav a img {
+    width: 2rem;
+    height: auto;
+  }
+
+#nosotros i {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.icon-div {
+    height: 2.2rem;
+    background-color: #17a2b8;
+}
+
+.border-bottom{
+    margin-top: 50px;
+}
+
+.footer p {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.footer i {
+    font-size: 20px;
+    font-weight: 700;
+}
